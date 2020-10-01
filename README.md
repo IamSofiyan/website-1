@@ -4,7 +4,7 @@
     </a>
 </h2>
 <p align="center">
-    website to create and vote topics for our next meetup
+    An Amazing Website to Create and Vote topics for our next meetup using swift
 </p>
 <p align="center">
     <img src="index.png" width="100%" alt="vapor.berlin">
